@@ -1,0 +1,6 @@
+framework module Pods_Dahmakan_help_order {
+  umbrella header "Pods-Dahmakan-help-order-umbrella.h"
+
+  export *
+  module * { export * }
+}
